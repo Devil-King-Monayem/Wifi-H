@@ -9,7 +9,7 @@
 $ apt update && apt upgrade
 $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
-$ git clone https://github.com/Mahfuz-THBD/Wifi-H
+$ git clone https://github.com/Devil-King-Monayem/Wifi-H
 $ cd Wifi-H
 $ chmod +x WiFi.py
 $ sudo python WiFi.py --help
